@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=80",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve.",
+    "category": "men's clothing",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "John Hardy Silver Dragon Station Chain Bracelet",
+    "price": 695.0,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1611591475874-8be05f4bf23d?w=500&auto=format&fit=crop&q=80",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 4,
+    "title": "WD 2TB Elements Portable External Hard Drive",
+    "price": 64.0,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=500&auto=format&fit=crop&q=80",
+    "rating": { "rate": 3.3, "count": 203 }
+  },
+  {
+    "id": 5,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD",
+    "price": 109.0,
+    "description": "Easy upgrade for faster boot up, shutdown, application load.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500&auto=format&fit=crop&q=80",
+    "rating": { "rate": 2.9, "count": 470 }
+  }
+]
